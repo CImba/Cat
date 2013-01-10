@@ -1,7 +1,6 @@
 # depslib dependency file v1.0
-1357329523 source:d:\programming\irrlicht\projects\cat\main.cpp
+1357669131 source:d:\programming\irrlicht\projects\cat\main.cpp
 	<Irrlicht.h>
-	"MyEventReceiver.h"
 
 1352114054 d:\program files (x86)\codeblocks\sdk\irrlicht\include\irrlicht.h
 	"IrrCompileConfig.h"
