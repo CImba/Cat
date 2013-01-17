@@ -1,6 +1,9 @@
 # depslib dependency file v1.0
-1357669131 source:d:\programming\irrlicht\projects\cat\main.cpp
+1358410209 source:d:\programming\irrlicht\projects\cat\main.cpp
 	<Irrlicht.h>
+	"MyEventReceiver.h"
+	<vector>
+	<time.h>
 
 1352114054 d:\program files (x86)\codeblocks\sdk\irrlicht\include\irrlicht.h
 	"IrrCompileConfig.h"
@@ -989,9 +992,9 @@
 	"matrix4.h"
 	"IVideoDriver.h"
 
-1357329985 d:\programming\irrlicht\projects\cat\myeventreceiver.h
+1358344107 d:\programming\irrlicht\projects\cat\myeventreceiver.h
 	<Irrlicht.h>
 
-1357330078 source:d:\programming\irrlicht\projects\cat\myeventreceiver.cpp
+1358344113 source:d:\programming\irrlicht\projects\cat\myeventreceiver.cpp
 	"MyEventReceiver.h"
 
